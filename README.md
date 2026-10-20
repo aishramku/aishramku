@@ -1,4 +1,4 @@
-# Hi, I'm Aishwarya
+# Hi,
 
 I graduated from the University of Minnesota in May 2026 with a Bachelor of Applied Science in IT Infrastructure and a sub-plan in Data Science.
 
